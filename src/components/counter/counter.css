@@ -1,0 +1,11 @@
+#root{
+    display: flex;
+    justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  height: 50%;
+  }
+  img{
+    width: 20%;
+  }
+  
